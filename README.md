@@ -1,3 +1,4 @@
+## Hi there 👋, my name is Ahmed Ghoneim
 # 💫 About Me:
 I'am a Computer Science student specializing in Machine Learning, Deep Learning, and Natural Language Processing. I have practical experience gained through participation in major competitions and currently lead the Machine Learning Core team at GDG on Campus, where I design and implement intelligent solutions leveraging cutting-edge AI techniques. I focus on developing innovative projects, contributing to the tech community, and exploring advanced methods for data-driven problem solving. I am committed to continuous learning, excellence, and delivering effective, methodical solutions.
 
